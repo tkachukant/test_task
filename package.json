@@ -1,0 +1,23 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkachukant/test_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkachukant/test_task/issues"
+  },
+  "homepage": "https://github.com/tkachukant/test_task#readme",
+  "devDependencies": {
+    "cypress": "^13.16.1"
+  }
+}
